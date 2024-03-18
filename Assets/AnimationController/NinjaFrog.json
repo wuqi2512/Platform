@@ -1,0 +1,42 @@
+{
+  "DoubleJump": {
+    "Priority": 3,
+    "Duration": 0.3,
+    "AnimHash": 129565385
+  },
+  "Fall": {
+    "Priority": 1,
+    "Duration": 0.05,
+    "AnimHash": 1533177906
+  },
+  "Hit": {
+    "Priority": 10,
+    "Duration": 0.35,
+    "AnimHash": 1654612129
+  },
+  "Idle": {
+    "Priority": 0,
+    "Duration": 0.55,
+    "AnimHash": 2081823275
+  },
+  "Jump": {
+    "Priority": 2,
+    "Duration": 0.05,
+    "AnimHash": 125937960
+  },
+  "Run": {
+    "Priority": 0,
+    "Duration": 0.6,
+    "AnimHash": 1748754976
+  },
+  "WallClimb": {
+    "Priority": 4,
+    "Duration": 0.25,
+    "AnimHash": -2062418281
+  },
+  "WallGrab": {
+    "Priority": 3,
+    "Duration": 0.05,
+    "AnimHash": -1172786782
+  }
+}
